@@ -1,0 +1,36 @@
+Documentation grammar errors
+
+Syntaxfile.html
+HEXA decimal numbers      HEX decimal numbers
+explaination              explanation
+prefered                  preferred
+execuable                 executable
+distinguishs              distinguishes
+in strange way            in a strange way
+
+preferences.html
+and it's look and feel    and its look and feel
+occurence                 occurrence
+changable                 changeable
+favorite                  favorite
+milimeters                millimeters
+stite                     site
+
+about.html
+print & print preview    - first item without bullet
+other useful feathers - listed with "," in the end of the line
+
+calculator.html
+earler                    earlier
+data functions, those are frequently used in financial problems, are now available  - seems strange for me. for you?
+
+
+howtos.html
+example assume ( used some times )  correct is "example assumes"
+
+regexp.html
+independantly             independently
+
+lisencefile.html
+licence information       license information
+all right reserved        all rights reserved
